@@ -1,0 +1,40 @@
+.counter {
+    margin: 10px;
+    color: rgb(185, 207, 247);
+}
+
+button{
+    color: #011233;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 50%;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input{
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+button:hover {
+    background-color: rgb(143, 230, 252);
+    color: white;
+  }
+
+form{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+
+body{
+    background-color: #011e3f;
+}
+
+
+
