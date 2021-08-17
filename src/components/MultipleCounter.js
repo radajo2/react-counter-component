@@ -5,7 +5,6 @@ import {useState} from "react";
 function MultipleCounter (){
     const [counterSize, setCounterSize] = useState(0);
 
-
     function updateCounterSize(counterSize){
         setCounterSize(counterSize);
 
